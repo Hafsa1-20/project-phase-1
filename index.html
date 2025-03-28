@@ -24,10 +24,35 @@
             <h2>Menu</h2>
             <div class="menu-category">
                 <h3>Fast Foods</h3>
+                <img src="images/chapati-rolls.jpg", alt="chapati chapati-rolls">
+                <img src="images/fs-tandoori-chicken-hmjq-videoSixteenByNineJumbo1600.jpg" alt="tandoori chicken">
+                <img src="images/images (1).jpeg" alt="shawarma">
+                <img src="images/images.jpeg" alt="hot dog">
+                <img src="images/Smashburger-recipe-120219.webp" alt="burger">
+                <img src="images/TwRzggyrLJCEh7gwzsLlPZ90VHf4imSUigQh5aiv.jpg" alt="smocha">
                 <ul id="menu-items-list">
-                    <!-- Menu items will be dynamically populated via JavaScript -->
+                    
                 </ul>
             </div>
+        </section>
+
+        <section id="menu-management">
+            <h2>Add New Menu Item</h2>
+            <form id="add-menu-item-form">
+                <div class="form-group">
+                    <label for="new-item-name">Item Name:</label>
+                    <input type="text" id="new-item-name" required minlength="2" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="new-item-description">Description:</label>
+                    <textarea id="new-item-description" required minlength="10" maxlength="200"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="new-item-price">Price (KSh):</label>
+                    <input type="number" id="new-item-price" required min="0" step="0.01">
+                </div>
+                <button type="submit">Add Menu Item</button>
+            </form>
         </section>
 
         <section id="location">

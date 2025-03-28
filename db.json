@@ -1,54 +1,54 @@
 {
-    "menu_items": [
-      {
-        "id": 1,
-        "name": "Shawarma",
-        "description": "Grilled meat wrapped in soft flatbread with fresh vegetables",
-        "price": 250,
-        "category": "Fast Foods",
-        "image": "images/shawarma.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Tandoori Chicken",
-        "description": "Marinated chicken grilled to perfection with traditional spices",
-        "price": 200,
-        "category": "Fast Foods",
-        "image": "images/tandoori-chicken.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Hot Dog",
-        "description": "Juicy sausage in a soft bun with your choice of toppings",
-        "price": 150,
-        "category": "Fast Foods",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcooking.nytimes.com%2Frecipes%2F1025641-grilled-hot-dogs&psig=AOvVaw05IcC06rWvZPL6eGAt_Xs1&ust=1743279769185000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi73a3NrYwDFQAAAAAdAAAAABAE"
-      },
-      {
-        "id": 4,
-        "name": "Smocha",
-        "description": "Kenyan street food favorite - samosa and chapati combo",
-        "price": 100,
-        "category": "Fast Foods",
-        "image": "images/smocha.jpg"
-      },
-      {
-        "id": 5,
-        "name": "Chapati Roll",
-        "description": "Fresh chapati filled with mixed vegetable filling",
-        "price": 200,
-        "category": "Fast Foods",
-        "image": "images/chapati-roll.jpg"
-      },
-      {
-        "id": 6,
-        "name": "Burger",
-        "description": "Juicy beef patty with cheese, lettuce, and special sauce",
-        "price": 100,
-        "category": "Fast Foods",
-        "image": "images/burger.jpg"
-      }
-    ],
-    "orders": [],
-    "contacts": []
-  }
+  "menu_items": [
+    {
+      "id": 1,
+      "name": "Shawarma",
+      "description": "Grilled meat wrapped in soft flatbread with fresh vegetables",
+      "price": 250,
+      "category": "Fast Foods",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/chicken-shawarma-horizontal-1547147916.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tandoori Chicken",
+      "description": "Marinated chicken grilled to perfection with traditional spices",
+      "price": 200,
+      "category": "Fast Foods",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2020/03/Tandoori-Chicken-2-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hot Dog",
+      "description": "Juicy sausage in a soft bun with your choice of toppings",
+      "price": 150,
+      "category": "Fast Foods",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Classic-Grilled-Hot-Dogs_EXPS_HCBZ5BTOS09_08_1B_RMS-2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smocha",
+      "description": "Kenyan street food favorite - samosa and chapati combo",
+      "price": 100,
+      "category": "Fast Foods",
+      "image": "https://www.kenyanfoodstore.com/wp-content/uploads/2021/03/smocha.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chapati Roll",
+      "description": "Fresh chapati filled with mixed vegetable filling",
+      "price": 200,
+      "category": "Fast Foods",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/08/veg-frankie-recipe-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Burger",
+      "description": "Juicy beef patty with cheese, lettuce, and special sauce",
+      "price": 100,
+      "category": "Fast Foods",
+      "image": "https://www.spendwithpennies.com/wp-content/uploads/2018/03/Burger-24.jpg"
+    }
+  ],
+  "orders": [],
+  "contacts": []
+}
