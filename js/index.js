@@ -1,5 +1,5 @@
 
-const DB_URL = 'http://localhost:3000/menu_items';
+const DB_URL = 'https://projecphase-1.vercel.app/menu_items';
 
 class MenuManager {
     
@@ -40,7 +40,7 @@ class MenuManager {
         }
     }
 
-    // UPDATE: Update existing menu item
+    
     static async updateMenuItem(id, updatedItem) {
         try {
             const response = await fetch(`${DB_URL}/menu_items/${id}`, {
